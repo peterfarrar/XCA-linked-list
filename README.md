@@ -1,6 +1,5 @@
-# lXA-linked-list
+# XCA-linked-list
 A linked list example for the XCA  
-Hmm... this was supposed to be called XCA-linked-list.  Oh well.
 
 This is a simple example, there's no type checking/data integrity.  Just a very basic single linked list.  
 
